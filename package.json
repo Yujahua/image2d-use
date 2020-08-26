@@ -1,0 +1,18 @@
+{
+  "name": "image2d-use",
+  "version": "1.0.0",
+  "description": "use image2d, author is yelloxing in github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image2d",
+    "image2d-use"
+  ],
+  "author": "yujahua",
+  "license": "MIT",
+  "dependencies": {
+    "image2d": "^1.8.6"
+  }
+}
